@@ -19,7 +19,7 @@ This is the backend service for the Task Management Application built using Expr
 Clone the repository
 
 ```bash
-  git clone git@github.com:gopi-srinu/Task-Management-Backend.git
+  git clone https://github.com/gopi-srinu/Task-Management-Backend.git
 ```
 Navigate to the project directory
 ```bash
